@@ -1,6 +1,6 @@
 window.onload = function () {
 
-	alert("Heyy I'm chris! send me money to GTBank 0249110235.. lol")
+	alert("Heyy, I'm chris! send me money @ GTBank 0249110235.. Just kidding lol...")
 	const time_el = document.querySelector('.watch .time');
 	const start_btn = document.getElementById('start');
 	const stop_btn = document.getElementById("stop");
